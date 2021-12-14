@@ -1,7 +1,7 @@
 Feature: Searches for trip
   As a user I should see available flights are displayed when I searched
 
-@testing
+
   Scenario: Searches for roundtrip basic economy ticket
     Given click roundtrip in a main section
     Then enter "Moscow" Flight Destination Input

@@ -13,6 +13,7 @@ Feature: Date fields
     Then click one way in a main section
     Then verify that user seen departing date field
 
+
   Scenario: Checking flexible dates option should change the Dates field to to month and days dropdown
     Given click book flight on the main section
     Then click flexible dates button

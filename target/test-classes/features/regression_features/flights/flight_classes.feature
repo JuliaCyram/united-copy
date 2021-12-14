@@ -2,7 +2,6 @@ Feature: Flight classes
 
   As a user I can select different flight classes such as Economy, Premium economy, Business or First
 
-
   Scenario: select flight Premium economy class
     Given click book flight on the main section
     Then select Premium economy class
